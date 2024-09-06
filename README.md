@@ -1,2 +1,2 @@
 # Seid-Yenus
-This is GitHub class
+This is GitHub class. 
